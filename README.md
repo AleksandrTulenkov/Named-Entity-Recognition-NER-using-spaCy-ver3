@@ -7,8 +7,8 @@ Named Entity Recognition using CLI training process
 -config_demo_efficiency (train from empty)
 -config_demo_transformer (trf model based)
 ```
-*config files use wandb as logger 
-*details about training and tests processes provided in NER_de_training.ipynb notebook
+* config files use wandb as logger 
+* details about training and tests processes provided in NER_de_training.ipynb notebook
 
 ### Model usage
 ```
@@ -17,8 +17,8 @@ Named Entity Recognition using CLI training process
 -in the repo provided smallest and simpliest model 
 ```
 ### Report plots
-![Losses plot](reports/W&B Chart 01.08.2021, 14_50_21.png)
-![Scores](reports/W&B Chart 01.08.2021, 15_08_16.png)
+<img src="reports/W&B Chart 01.08.2021, 14_50_21.png" alt="drawing" width="600px"/>
+<img src="reports/W&B Chart 01.08.2021, 15_08_16.png" alt="drawing" width="600px"/>
 
 ### Prerequisites
 ```
